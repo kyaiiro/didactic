@@ -1,3 +1,5 @@
+# Project has been dropped, spotify is just unbeatable and this won't do all I need, but I'm leaving it here to show what I could do
+
 ## For scrobbling and Discord RPC use pano scrobbler (Discord RPC is dumb, this works well, scrobbling is slow, this saves time for my prgram and only uses 500mb of ram)
 
 ### For Arch:
